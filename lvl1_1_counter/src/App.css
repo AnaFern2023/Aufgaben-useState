@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.counter_display {
+  display: flex;
+  flex-direction: column;
+}
+
+.counter_display button {
+  width: 20vw;
+  margin: 10px auto;
+}
+
+.counter_display button a {
+  text-decoration: none;
+  color: black;
+}
